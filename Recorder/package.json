@@ -1,0 +1,22 @@
+{
+  "name": "recorder",
+  "version": "1.0.0",
+  "description": "This is a screen recorder",
+  "main": "src/main.js",
+  "scripts": {
+    "start": " electron ."
+  },
+  "keywords": [
+    "record",
+    "recorder",
+    "screen",
+    "screen",
+    "recorder"
+  ],
+  "author": "Mustafa Pıçakçı",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.9.0",
+    "electron": "^9.1.0"
+  }
+}
